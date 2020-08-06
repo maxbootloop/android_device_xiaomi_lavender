@@ -1,10 +1,10 @@
 [
  {
-   "repository"   : "CarbonROM/android_device_xiaomi_sdm660-common",
+   "repository"   : "maxbootloop/android_device_xiaomi_sdm660-common",
    "target_path"  : "device/xiaomi/sdm660-common"
  },
  {
-   "repository"   : "CarbonROM/android_kernel_xiaomi_sdm660",
+   "repository"   : "maxbootloop/android_kernel_xiaomi_sdm660-1",
    "target_path"  : "kernel/xiaomi/sdm660"
  },
  {
