@@ -23,9 +23,9 @@
 
 # Inherit Redmi Note 7 Carbon device config
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/carbon_lavender.mk
+    $(LOCAL_DIR)/bootleg_lavender.mk
 
 COMMON_LUNCH_CHOICES := \
-    carbon_lavender-eng \
-    carbon_lavender-userdebug \
-    carbon_lavender-user
+    bootleg_lavender-eng \
+    bootleg_lavender-userdebug \
+    bootleg_lavender-user
